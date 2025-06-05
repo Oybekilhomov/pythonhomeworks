@@ -73,7 +73,7 @@ def main():
     save_tasks(tasks)
     print("\nUpdated first task as completed and saved.")
 
-    fetch_weather(CITY)
+    fetch_weather(Tashkent)
 
 if __name__ == '__main__':
     main()
